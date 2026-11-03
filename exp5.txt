@@ -1,0 +1,11 @@
+Student Grade Analyzer
+---------------------
+Name    Mark    Grade
+Akash   99      A
+Ram     96      A
+Rahul   81      B
+Henry   75      B
+
+First student scoring above 80: Akash
+Total Marks: 351
+Average Mark: 87.75
